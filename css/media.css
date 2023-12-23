@@ -1,0 +1,14 @@
+@media screen and (max-width: 400px){
+
+    .container{
+        max-width: 340px;
+    }
+
+    .table{
+        font-size: 10px;
+    }
+    .ww{
+        
+        font-size: 40px;
+    }
+}
